@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except specific files
+!.gitignore
+!README.md
+!flexFetch.py
+!requirements.txt
+!token_example.txt
+!query_example.txt
